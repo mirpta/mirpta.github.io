@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mirpta.github.io/sitemap/sitemap.txt
